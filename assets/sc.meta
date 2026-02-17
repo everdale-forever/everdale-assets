@@ -1,0 +1,18 @@
+{
+	"data": {
+		"childKeys": [
+			"anim_tex",
+			"background_images",
+			"debug",
+			"effects",
+			"intro",
+			"loading",
+			"npc_characters",
+			"overlay",
+			"sc_intro",
+			"supercell_id",
+			"ui"
+		]
+	},
+	"tags": []
+}

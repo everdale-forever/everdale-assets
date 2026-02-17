@@ -1,0 +1,14 @@
+"Name","LocalizedName","Description","HasEvenSpaceCharacters","isRTL","UsedSystemFont","HelpshiftSDKLanguage","HelpshiftSDKLanguageAndroid","SortOrder","TestLanguage","TestExcludes","BoomboxEnabled","BoomboxUrl","BoomboxStagingUrl","HelpshiftLanguageTagOverride","ForcedFontName","SelfHelpUrl"
+"String","String","String","boolean","boolean","String","String","String","int","boolean","String","boolean","String","String","String","String","String"
+"EN","English",,,,,"en",,1,,,"true","https://inbox.clashofclans.com","https://inbox-staging.clashofclans.com","EN",,"https://ingame.help.supercellsupport.com/everdale/en/index.html"
+"JP","日本語",,"TRUE",,"HiraKakuProN-W6","ja",,2,,,,,,"JP",,"https://ingame.help.supercellsupport.com/everdale/en/index.html"
+"KR","한국어",,"TRUE",,,"ko",,3,,,,,,"KR",,"https://ingame.help.supercellsupport.com/everdale/en/index.html"
+"FR","Français",,,,,"fr",,4,"TRUE",,,,,"FR",,"https://ingame.help.supercellsupport.com/everdale/en/index.html"
+"DE","Deutsch",,,,,"de",,5,"TRUE",,,,,"DE",,"https://ingame.help.supercellsupport.com/everdale/en/index.html"
+,,,,,,,,,,,,,,,,
+"TEXT","Longest text","Longest text",,,,"zh-hans","zh_CN",1000,"TRUE",,,,,"EN",,
+"WORD","Longest word","Longest word",,,,"cn","zh_TW",1001,"TRUE",,,,,"EN",,
+"DOUBLE","Double String","Double String",,,,"zh-Hans","zh_CN",1002,"TRUE",,,,,"EN",,
+"EMPTY","Empty texts","Empty texts",,,,"ko","ko",1003,"TRUE",,,,,"EN",,
+"DOUBLEDOUBLE","Double Double String","Double Double String",,,,"zh-Hans","zh_CN",1004,"TRUE",,,,,,,
+"QUADRUPLE","Quad String","Quad String",,,,"zh-Hans","zh_CN",1005,"TRUE",,,,,,,

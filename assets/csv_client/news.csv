@@ -1,0 +1,2 @@
+"ArticleId","Disabled","Title","Message","ActionButtonTexts","Actions","Urgent","MinAccountAge","MinXPLevel","ABMod","ABGroup","Countries"
+"int","Boolean","String","String","String","String","Boolean","int","int","int","int","String"

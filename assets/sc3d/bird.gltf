@@ -1,0 +1,196 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v0.9.36",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+  "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Bird"
+        }
+    ],
+"materials": [
+  {
+    "extensions": {
+      "SC_shader": {
+        "blendMode": "opaque",
+        "constants": ["DIFFUSE"],
+        "name": "mat_bird",
+        "shader": "uber",
+        "variables": {
+          "ambient": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "colorAdd": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "colorMul": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "colorize": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "colorizeTex2D": {
+            "index": -1
+          },
+          "cutout": 0,
+          "diffuse": [
+            0.9,
+            0.9,
+            0.9,
+            1
+          ],
+          "diffuseTex2D": {
+            "index": -1
+          },
+          "emission": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "emissionTex2D": {
+            "index": -1
+          },
+          "lightmapSpecularTex2D": {
+            "index": -1
+          },
+          "lightmapTex2D": {
+            "index": -1
+          },
+          "opacity": 0,
+          "opacityTex2D": {
+            "index": -1
+          },
+          "specular": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "specularTex2D": {
+            "index": -1
+          },
+          "stencilScaleOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "stencilTex2D": {
+            "index": -1
+          }
+        }
+      }
+    },
+    "emissiveFactor": [
+      0,
+      0,
+      0
+    ],
+    "alphaMode": "OPAQUE",
+    "doubleSided": false
+  }
+],
+    "meshes" : [
+        {
+            "name" : "Plane",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 22,
+            "max" : [
+                1.8873107433319092,
+                1.5342738628387451,
+                0.7162333130836487
+            ],
+            "min" : [
+                -1.8873107433319092,
+                -1.3196099996566772,
+                -0.05365292727947235
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 22,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 22,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 54,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 264,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 264,
+            "byteOffset" : 264
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 176,
+            "byteOffset" : 528
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 108,
+            "byteOffset" : 704
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 812,
+            "uri" : "data:application/octet-stream;base64,AAAAAJm4lD4AAAAAIdehPi2zwz8AAAAAAAAAABZjxD8sw1u9fv5UPndMlT6QiVI+AAAAAC8pJb8AAAAAAAAAAPvoqL8AAAAAzHacPtQEJb9HcFE+r15VP/pOWr9+oLw+SokOPxNzaz5JZ74+ZpPxPwlo9b19EQg/lhjXP/5ugT4RWzc/Idehvi2zwz8AAAAAAAAAAJm4lD4AAAAAAAAAABZjxD8sw1u9fv5UvndMlT6QiVI+AAAAAC8pJb8AAAAAzHacvtQEJb9HcFE+AAAAAPvoqL8AAAAASokOvxNzaz5JZ74+r15Vv/pOWr9+oLw+ZpPxvwlo9b19EQg/lhjXv/5ugT4RWzc/AAAAAIlhRD3/s38/wjHhvszh5T3IGWQ/AAAAAAABAD78+30/AVEAv1ABKLq7g10/AAAAAE5Bp7wA8n8/AAAAAAAAAAAAAIA/5hHzvqbB0rzCNWE/0hFpvnZBO73y/3g/UjWpvhOhCb7eJW8/i4FFvjwRnr7dbW4/53FzvhG9CL+frU8/wjHhPszh5T3IGWQ/AAAAAIlhRD3/s38/AAAAAAABAD78+30/AVEAP1ABKLq7g10/AAAAAE5Bp7wA8n8/5hHzPqbB0rzCNWE/AAAAAAAAAAAAAIA/UjWpPhOhCb7eJW8/0hFpPnZBO73y/3g/i4FFPjwRnr7dbW4/53FzPhG9CL+frU8/AAAAAH6X3T4AAIA/AAAAAAAAAAAAAAAAAACAP3yX3T4AAAAAFCFEPwAAAAAAAIA/AACAPxQhRD8AAIA/FCFEPwAAgD98l90+AACAPxQhRD8AAIA/fJfdPgAAgD8AAAAAAAAAAH6X3T4AAAAAAAAAAAAAgD98l90+AAAAABQhRD8AAIA/FCFEPwAAAAAAAIA/AACAP3yX3T4AAIA/FCFEPwAAgD8UIUQ/AACAP3yX3T4AAAEAAgAAAAMAAQAEAAUABgAGAAAABAAGAAMAAAADAAcACAAIAAcACQAJAAoACAAHAAMABgALAAwADQALAA4ADAAPABAAEQAMABAADwAOABAADAAOABIAEwASABQAEwAUABIAFQATABAADgA="
+        }
+    ]
+}

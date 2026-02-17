@@ -1,0 +1,5 @@
+aggregation_strategy: {method: TIME_BASED, intervalms_or_count: 600000, max_instrumentation_keys: 6, annotation_enum_size: [3]}
+api_key: ""
+default_fidelity_parameters_filename: "dev_tuningfork_fidelityparams_1.bin"
+loading_annotation_index: 1
+level_annotation_index: 2

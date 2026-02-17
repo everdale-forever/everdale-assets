@@ -1,0 +1,5 @@
+"Name","TID","PageOrder"
+"String","String","int"
+"Resources","TID_SHOP_PAGE_RESOURCES",1
+"Decorations","TID_SHOP_PAGE_DECOS",3
+"Gems","TID_SHOP_PAGE_GEMS",2

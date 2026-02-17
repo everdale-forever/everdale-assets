@@ -1,0 +1,17 @@
+{
+  "Enabled": true,
+  "ScFileName": "sc/supercell_id.sc",
+  "UseNative": true,
+  "Game": "nation",
+  "PreloadingEnabled": true,
+  "InternalDomains": ["www.google.com"],
+  "EnabledCountries": ["ALL"],
+  "DisabledCountries": ["CN"],
+  "UseNativeCountries": ["ALL"],
+  "UseSocialCountries": ["ALL"],
+  "UseNativeFastSwitch": true,
+  "DisableIngameFriends": true,
+  "GameURLScheme": "everdale:",
+  "ShareURL": "https://link.everdale.com",
+  "PersonalizedOffersEnabled":true
+}

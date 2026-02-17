@@ -1,0 +1,16 @@
+"Name","Description","Public","ParameterType","ParameterName","ParameterOptional","ParameterDescription"
+"String","String","Boolean","String","String","Boolean","String"
+"OpenShop","Open the shop","TRUE",,,,
+"OpenShopBillingPackage","Open the shop and show the billing package","TRUE","BillingPackage","package",,
+"OpenShopOffer","Open the shop and show the offer","TRUE","Offer","offer",,
+"OpenWeb","Open default browser and go to address","FALSE","String","url",,"Address to open"
+,,,"String","url2","TRUE","If url cannot be opened i.e. clashroyale:// then the following urls are tested."
+,,,"String","url3","TRUE","If url cannot be opened i.e. clashroyale:// then the following urls are tested."
+"OpenFAQ","Open helpshift FAQ article","TRUE","String","id",,
+"ContactSupport","Open helpshift customer support","TRUE",,,,
+"OpenSelfHelp","Opens self help. Optional id of article. i.e. article=announcement","TRUE","String","article",,
+"SurveyCompleted","Opens a popup thanking the player.","TRUE",,,,
+"OpenValleyProfile","Open the valley information and player list","TRUE","String","tag",,
+,"Optional parameter, if given player can join valley using the token.",,"String","token","TRUE","Optional parameter, if given player can join valley using the token."
+,"Optional parameter, if given player can join valley using invite.",,"Int","entry_id","TRUE","Optional parameter, if given player can join valley using invite."
+"OpenPlayerProfile","Open the player information","TRUE","String","tag",,
